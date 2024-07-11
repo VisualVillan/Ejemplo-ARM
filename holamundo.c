@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
-    printf("tercera version \n");
-
+int main(){
+    srand(time(NULL));
     return 0;
 }
