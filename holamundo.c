@@ -2,10 +2,7 @@
 
 int main()
 {
-    printf("hola mundo hola \n");
-    printf("hola mundo 2 \n");
-    printf("hola mundo 3 \n");
+    printf("tercera version \n");
+
     return 0;
-
-
 }
